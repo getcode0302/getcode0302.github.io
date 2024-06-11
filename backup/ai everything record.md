@@ -4,4 +4,6 @@ https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg?spm=ata.21736010.0
 ### tools
 pdf 文件阅读
 https://github.com/ai-hermes/doc-solver
+小爱音箱
+https://github.com/idootop/mi-gpt
 
