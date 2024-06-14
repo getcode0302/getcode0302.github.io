@@ -9,3 +9,6 @@ https://github.com/ai-hermes/doc-solver
 小爱音箱
 https://github.com/idootop/mi-gpt
 
+### openai
+https://gpt4o.so/zh-CN
+
