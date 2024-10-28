@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Mon, 28 Oct 2024 07:17:28 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>Hijack工具</title><link>https://getcode0302.github.io/post/Hijack-gong-ju.html</link><description>android 应用通杀&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Mon, 28 Oct 2024 12:08:29 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>Hijack工具</title><link>https://getcode0302.github.io/post/Hijack-gong-ju.html</link><description>android 应用通杀&#13;
 https://github.com/r0ysue/r0capture。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Hijack-gong-ju.html</guid><pubDate>Tue, 22 Oct 2024 12:54:43 +0000</pubDate></item><item><title>SaaS部署平台</title><link>https://getcode0302.github.io/post/SaaS-bu-shu-ping-tai.html</link><description>### web &#13;
 vecerl&#13;
 cloudflare pages&amp;worker&#13;
@@ -22,9 +22,10 @@ https://github.com/public-apis/public-apis?tab=readme-ov-file#index&#13;
 https://github.com/wechaty/wechaty&#13;
 &#13;
 ### telgram机器人&#13;
-honon: https://github.com/ryanccn/worker-template&#13;
+hono: https://github.com/ryanccn/worker-template&#13;
 参考： https://moe.best/tutorial/cfworker-telegraf-tgbot.html&#13;
 telgram bot api: https://github.com/telegraf&#13;
+telgram bot api:https://grammy.dev/zh/&#13;
 &#13;
 ### finance api &#13;
 https://github.com/ranaroussi/yfinance&#13;
