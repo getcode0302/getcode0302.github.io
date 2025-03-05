@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Tue, 25 Feb 2025 02:35:55 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>自托管的状态页</title><link>https://getcode0302.github.io/post/zi-tuo-guan-de-zhuang-tai-ye.html</link><description>###
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Wed, 05 Mar 2025 08:54:59 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>自托管的状态页</title><link>https://getcode0302.github.io/post/zi-tuo-guan-de-zhuang-tai-ye.html</link><description>###
 * https://github.com/louislam/uptime-kuma
 * https://kener.ing/docs/home。</description><guid isPermaLink="true">https://getcode0302.github.io/post/zi-tuo-guan-de-zhuang-tai-ye.html</guid><pubDate>Tue, 25 Feb 2025 02:35:33 +0000</pubDate></item><item><title>Perfermance&amp;&amp;Diagnose</title><link>https://getcode0302.github.io/post/Perfermance%26%26Diagnose.html</link><description>
 Linux 工具
@@ -40,27 +40,27 @@ https://github.com/beilunyang/moemail&#13;
 zhile:https://zhile.io/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/IDE-ji-lu.html</guid><pubDate>Tue, 26 Mar 2024 03:37:38 +0000</pubDate></item><item><title>名人演进记录</title><link>https://getcode0302.github.io/post/ming-ren-yan-jin-ji-lu.html</link><description>**2024**&#13;
 [黄仁勋2024斯坦福](https://finance.sina.cn/chanjing/gsxw/2024-03-11/detail-inamxtkr1619017.d.html)。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ming-ren-yan-jin-ji-lu.html</guid><pubDate>Fri, 15 Mar 2024 09:34:36 +0000</pubDate></item><item><title>golang</title><link>https://getcode0302.github.io/post/golang.html</link><description>### 资料大全&#13;
 &#13;
-https://github.com/0voice/Introduction-to-Golang/tree/main。</description><guid isPermaLink="true">https://getcode0302.github.io/post/golang.html</guid><pubDate>Wed, 13 Mar 2024 07:28:51 +0000</pubDate></item><item><title>平台开发</title><link>https://getcode0302.github.io/post/ping-tai-kai-fa.html</link><description>### 消息推送平台&#13;
-https://github.com/engigu/Message-Push-Nest&#13;
-&#13;
-### api 大全&#13;
-https://github.com/public-apis/public-apis?tab=readme-ov-file#index&#13;
-&#13;
-### 微信自助SDK&#13;
-https://github.com/wechaty/wechaty&#13;
-&#13;
-### telgram机器人&#13;
-hono: https://github.com/ryanccn/worker-template&#13;
-参考： https://moe.best/tutorial/cfworker-telegraf-tgbot.html&#13;
-telgram bot api: https://github.com/telegraf&#13;
-telgram bot api:https://grammy.dev/zh/&#13;
-&#13;
-### finance api &#13;
-https://github.com/ranaroussi/yfinance&#13;
-&#13;
-### open auth&#13;
-https://github.com/openauthjs/openauth&#13;
-&#13;
+https://github.com/0voice/Introduction-to-Golang/tree/main。</description><guid isPermaLink="true">https://getcode0302.github.io/post/golang.html</guid><pubDate>Wed, 13 Mar 2024 07:28:51 +0000</pubDate></item><item><title>平台开发</title><link>https://getcode0302.github.io/post/ping-tai-kai-fa.html</link><description>### 消息推送平台
+https://github.com/engigu/Message-Push-Nest
+https://github.com/beilunyang/moepush
+### api 大全
+https://github.com/public-apis/public-apis?tab=readme-ov-file#index
+
+### 微信自助SDK
+https://github.com/wechaty/wechaty
+
+### telgram机器人
+hono: https://github.com/ryanccn/worker-template
+参考： https://moe.best/tutorial/cfworker-telegraf-tgbot.html
+telgram bot api: https://github.com/telegraf
+telgram bot api:https://grammy.dev/zh/
+
+### finance api 
+https://github.com/ranaroussi/yfinance
+
+### open auth
+https://github.com/openauthjs/openauth
+
 。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ping-tai-kai-fa.html</guid><pubDate>Mon, 11 Mar 2024 03:33:47 +0000</pubDate></item><item><title>asm-x86&amp;arm</title><link>https://getcode0302.github.io/post/asm-x86%26arm.html</link><description>x86:http://www.egr.unlv.edu/~ed/assembly64.pdf。</description><guid isPermaLink="true">https://getcode0302.github.io/post/asm-x86%26arm.html</guid><pubDate>Mon, 11 Mar 2024 03:04:13 +0000</pubDate></item><item><title>docker note</title><link>https://getcode0302.github.io/post/docker%20note.html</link><description>### compose examples&#13;
 https://github.com/Haxxnet/Compose-Examples。</description><guid isPermaLink="true">https://getcode0302.github.io/post/docker%20note.html</guid><pubDate>Mon, 11 Mar 2024 03:02:27 +0000</pubDate></item><item><title>ai everything record</title><link>https://getcode0302.github.io/post/ai%20everything%20record.html</link><description>### 知识&#13;
 深度学习书籍：https://udlbook.github.io/udlbook/&#13;
