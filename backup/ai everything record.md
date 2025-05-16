@@ -15,6 +15,10 @@ https://github.com/idootop/mi-gpt
 微信gpt
 https://github.com/kx-Huang/ChatGPT-on-WeChat/blob/master/README.md
 
+命令控制收集agent
+https://github.com/droidrun/droidrun
+
+
 ### openai
 https://gpt4o.so/zh-CN
 
