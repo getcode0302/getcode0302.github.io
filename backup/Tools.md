@@ -12,3 +12,7 @@ https://pairdrop.net/
 
 ## 自托管笔记工具
 https://docs.karakeep.app/
+
+
+## 网页内容抓取
+https://github.com/jaypyles/Scraperr
