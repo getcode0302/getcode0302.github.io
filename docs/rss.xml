@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Fri, 16 May 2025 09:44:35 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>笔记应用</title><link>https://getcode0302.github.io/post/bi-ji-ying-yong.html</link><description>https://docs.hoarder.app/Installation/debuntu。</description><guid isPermaLink="true">https://getcode0302.github.io/post/bi-ji-ying-yong.html</guid><pubDate>Wed, 16 Apr 2025 08:11:33 +0000</pubDate></item><item><title>cline-with-mcp</title><link>https://getcode0302.github.io/post/cline-with-mcp.html</link><description>官方：https://github.com/modelcontextprotocol/servers
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Fri, 16 May 2025 09:45:25 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>笔记应用</title><link>https://getcode0302.github.io/post/bi-ji-ying-yong.html</link><description>https://docs.hoarder.app/Installation/debuntu。</description><guid isPermaLink="true">https://getcode0302.github.io/post/bi-ji-ying-yong.html</guid><pubDate>Wed, 16 Apr 2025 08:11:33 +0000</pubDate></item><item><title>cline-with-mcp</title><link>https://getcode0302.github.io/post/cline-with-mcp.html</link><description>官方：https://github.com/modelcontextprotocol/servers
 mcp.so server: https://mcp.so/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/cline-with-mcp.html</guid><pubDate>Thu, 10 Apr 2025 11:56:22 +0000</pubDate></item><item><title>magazine</title><link>https://getcode0302.github.io/post/magazine.html</link><description>https://github.com/Monkfishare/Calibre (online ecom)
 https://github.com/hehonghui/awesome-english-ebooks。</description><guid isPermaLink="true">https://getcode0302.github.io/post/magazine.html</guid><pubDate>Fri, 14 Mar 2025 03:01:13 +0000</pubDate></item><item><title>build-your-own-x()</title><link>https://getcode0302.github.io/post/build-your-own-x%28%29.html</link><description>https://github.com/codecrafters-io/build-your-own-x 
 。</description><guid isPermaLink="true">https://getcode0302.github.io/post/build-your-own-x%28%29.html</guid><pubDate>Fri, 14 Mar 2025 02:58:51 +0000</pubDate></item><item><title>Blog-Reading</title><link>https://getcode0302.github.io/post/Blog-Reading.html</link><description>chuquan.me
@@ -21,14 +21,17 @@ bcc 工具集合：https://github.com/iovisor/bcc
 https://github.com/iovisor/ubpf
 
 https://github.com/hengyoush/kyanos （慢请求抓包 http redis kafka）
-。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Perfermance%26%26Diagnose.html</guid><pubDate>Thu, 06 Feb 2025 09:15:53 +0000</pubDate></item><item><title>资讯集散地</title><link>https://getcode0302.github.io/post/zi-xun-ji-san-di.html</link><description>https://www.bestblogs.dev/feeds?featured=y。</description><guid isPermaLink="true">https://getcode0302.github.io/post/zi-xun-ji-san-di.html</guid><pubDate>Fri, 17 Jan 2025 09:19:09 +0000</pubDate></item><item><title>Tools</title><link>https://getcode0302.github.io/post/Tools.html</link><description>## 二级域名证书查询&#13;
-https://crt.sh/&#13;
-&#13;
-## 微信文章导出&#13;
-https://github.com/jooooock/wechat-article-exporter&#13;
-&#13;
-## sql 方式查询云服务状态&#13;
-https://steampipe.io/&#13;
+。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Perfermance%26%26Diagnose.html</guid><pubDate>Thu, 06 Feb 2025 09:15:53 +0000</pubDate></item><item><title>资讯集散地</title><link>https://getcode0302.github.io/post/zi-xun-ji-san-di.html</link><description>https://www.bestblogs.dev/feeds?featured=y。</description><guid isPermaLink="true">https://getcode0302.github.io/post/zi-xun-ji-san-di.html</guid><pubDate>Fri, 17 Jan 2025 09:19:09 +0000</pubDate></item><item><title>Tools</title><link>https://getcode0302.github.io/post/Tools.html</link><description>## 二级域名证书查询
+https://crt.sh/
+
+## 微信文章导出
+https://github.com/jooooock/wechat-article-exporter
+
+## sql 方式查询云服务状态
+https://steampipe.io/
+
+## 文件分享工具
+https://pairdrop.net/
 。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Tools.html</guid><pubDate>Mon, 28 Oct 2024 12:27:42 +0000</pubDate></item><item><title>Hijack工具</title><link>https://getcode0302.github.io/post/Hijack-gong-ju.html</link><description>android 应用通杀&#13;
 https://github.com/r0ysue/r0capture。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Hijack-gong-ju.html</guid><pubDate>Tue, 22 Oct 2024 12:54:43 +0000</pubDate></item><item><title>SaaS部署平台</title><link>https://getcode0302.github.io/post/SaaS-bu-shu-ping-tai.html</link><description>### web &#13;
 vecerl&#13;
