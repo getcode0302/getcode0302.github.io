@@ -9,3 +9,6 @@ https://steampipe.io/
 
 ## 文件分享工具
 https://pairdrop.net/
+
+## 自托管笔记工具
+https://docs.karakeep.app/
