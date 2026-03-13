@@ -12,3 +12,7 @@ https://github.com/xixu-me/xget/blob/main/README.zh-Hans.md
 
 ### 评论系统
 https://github.com/anghunk/cwd
+
+
+### tunnel tools
+https://github.com/tianrking/Re_edgetunnel?tab=readme-ov-file
