@@ -9,3 +9,6 @@ https://github.com/bestruirui/Alle/blob/main/docs/deploy.md
 
 ### xget 加速
 https://github.com/xixu-me/xget/blob/main/README.zh-Hans.md
+
+### 评论系统
+https://github.com/anghunk/cwd
