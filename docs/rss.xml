@@ -1,2 +1,195 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:14:41 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>getcode</title><link>https://getcode0302.github.io</link><description>日常记录</description><copyright>getcode</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn1.iconfinder.com/data/icons/city-flat-2/512/people_person_man_sit_chair-72.png</url><title>avatar</title><link>https://getcode0302.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:41:13 +0000</lastBuildDate><managingEditor>getcode</managingEditor><ttl>60</ttl><webMaster>getcode</webMaster><item><title>forward tools</title><link>https://getcode0302.github.io/post/forward%20tools.html</link><description>### 内网转发
+https://github.com/jiweiyuan/tunelo
+
+### port forward
+https://github.com/tianrking/proxychains-rs/blob/main/README.zh-CN.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/forward%20tools.html</guid><pubDate>Fri, 27 Mar 2026 08:51:34 +0000</pubDate></item><item><title>AI-AGENT</title><link>https://getcode0302.github.io/post/AI-AGENT.html</link><description>### cc-connect channel cli to imessage
+https://github.com/chenhg5/cc-connect/blob/main/README.zh-CN.md
+
+### code agent statis
+ https://github.com/MrQianjinsi/agentic-metric/blob/master/README-CN.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/AI-AGENT.html</guid><pubDate>Wed, 25 Mar 2026 12:46:15 +0000</pubDate></item><item><title>MacOs Tools</title><link>https://getcode0302.github.io/post/MacOs%20Tools.html</link><description>### space clean
+https://github.com/daijinhai/TermClean
+https://github.com/tw93/Mole。</description><guid isPermaLink="true">https://getcode0302.github.io/post/MacOs%20Tools.html</guid><pubDate>Wed, 25 Mar 2026 12:32:44 +0000</pubDate></item><item><title>openclaw-awesome</title><link>https://getcode0302.github.io/post/openclaw-awesome.html</link><description>### multi-agent
+https://github.com/cft0808/edict/blob/main/docs/wechat-article.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/openclaw-awesome.html</guid><pubDate>Thu, 19 Mar 2026 07:07:24 +0000</pubDate></item><item><title>Design Building</title><link>https://getcode0302.github.io/post/Design%20Building.html</link><description># 工具
+https://m3.material.io/get-started。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Design%20Building.html</guid><pubDate>Thu, 12 Mar 2026 03:29:38 +0000</pubDate></item><item><title>Paper Research</title><link>https://getcode0302.github.io/post/Paper%20Research.html</link><description>### ai tools
+https://github.com/yzr278892/arxiv-daily-researcher。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Paper%20Research.html</guid><pubDate>Fri, 06 Mar 2026 09:45:18 +0000</pubDate></item><item><title>Health-AI</title><link>https://getcode0302.github.io/post/Health-AI.html</link><description>### CLAUD 诊断
+https://github.com/huifer/Claude-Ally-Health/tree/main。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Health-AI.html</guid><pubDate>Wed, 14 Jan 2026 07:19:36 +0000</pubDate></item><item><title>chrome exten</title><link>https://getcode0302.github.io/post/chrome%20exten.html</link><description>### 拦截监听重放
+https://github.com/lustan/XApi
+
+### 拦截event
+https://github.com/bywwcnll/StreamPanel?tab=readme-ov-file#%E4%B8%AD%E6%96%87。</description><guid isPermaLink="true">https://getcode0302.github.io/post/chrome%20exten.html</guid><pubDate>Wed, 14 Jan 2026 03:15:00 +0000</pubDate></item><item><title>本地开发</title><link>https://getcode0302.github.io/post/ben-di-kai-fa.html</link><description>### 运维工具
+zedis : https://github.com/vicanso/zedis/blob/main/README_zh.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ben-di-kai-fa.html</guid><pubDate>Wed, 14 Jan 2026 03:13:35 +0000</pubDate></item><item><title>效率工具</title><link>https://getcode0302.github.io/post/xiao-lv-gong-ju.html</link><description>###离线notes
+ https://github.com/blueberrycongee/Lumina-Note
+
+###pdf工具
+[pdf-tool.hihihaha.top](https://pdf-tool.hihihaha.top/)
+
+### 粘贴板历史
+https://github.com/yuzeguitarist/Deck。</description><guid isPermaLink="true">https://getcode0302.github.io/post/xiao-lv-gong-ju.html</guid><pubDate>Tue, 13 Jan 2026 09:42:54 +0000</pubDate></item><item><title>browser-ai-extentions</title><link>https://getcode0302.github.io/post/browser-ai-extentions.html</link><description>### 翻译
+https://github.com/snailfrying/flowers/blob/main/README.zh-CN.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/browser-ai-extentions.html</guid><pubDate>Wed, 07 Jan 2026 08:29:04 +0000</pubDate></item><item><title>wxchat-sdk-integration</title><link>https://getcode0302.github.io/post/wxchat-sdk-integration.html</link><description>## push msg
+https://github.com/hezhizheng/go-wxpush?tab=readme-ov-file
+
+## 文章格式生成器
+https://github.com/tenngoxars/WeMD。</description><guid isPermaLink="true">https://getcode0302.github.io/post/wxchat-sdk-integration.html</guid><pubDate>Wed, 07 Jan 2026 07:34:47 +0000</pubDate></item><item><title>git note</title><link>https://getcode0302.github.io/post/git%20note.html</link><description>### 修复history
+https://github.com/Cactusinhand/filter-repo-rs/blob/main/README.zh-CN.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/git%20note.html</guid><pubDate>Tue, 04 Nov 2025 01:48:18 +0000</pubDate></item><item><title>NOF1（AI-GO）</title><link>https://getcode0302.github.io/post/NOF1%EF%BC%88AI-GO%EF%BC%89.html</link><description>https://linux.do/t/topic/1064538
+https://nof1.ai/
+https://github.com/weiuou/nof1-analysis/tree/main
+
+### 开源平台
+https://github.com/ValueCell-ai/valuecell/blob/main/README.zh.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/NOF1%EF%BC%88AI-GO%EF%BC%89.html</guid><pubDate>Wed, 22 Oct 2025 08:49:54 +0000</pubDate></item><item><title>图片在线处理工具</title><link>https://getcode0302.github.io/post/tu-pian-zai-xian-chu-li-gong-ju.html</link><description>## 拼图
+https://www.online-collage-maker.com/editor。</description><guid isPermaLink="true">https://getcode0302.github.io/post/tu-pian-zai-xian-chu-li-gong-ju.html</guid><pubDate>Sat, 18 Oct 2025 16:58:29 +0000</pubDate></item><item><title>Gemini-Google</title><link>https://getcode0302.github.io/post/Gemini-Google.html</link><description>## 图片重塑
+https://github.com/PicoTrex/Awesome-Nano-Banana-images?tab=readme-ov-file#-introduction。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Gemini-Google.html</guid><pubDate>Thu, 09 Oct 2025 11:48:04 +0000</pubDate></item><item><title>githubs</title><link>https://getcode0302.github.io/post/githubs.html</link><description>### starts 管理
+https://github.com/AmintaCCCP/GithubStarsManager。</description><guid isPermaLink="true">https://getcode0302.github.io/post/githubs.html</guid><pubDate>Tue, 12 Aug 2025 05:42:49 +0000</pubDate></item><item><title>笔记应用</title><link>https://getcode0302.github.io/post/bi-ji-ying-yong.html</link><description>https://docs.hoarder.app/Installation/debuntu
+
+## obsidian
+
+https://github.com/sytone/obsidian-remote。</description><guid isPermaLink="true">https://getcode0302.github.io/post/bi-ji-ying-yong.html</guid><pubDate>Wed, 16 Apr 2025 08:11:33 +0000</pubDate></item><item><title>magazine</title><link>https://getcode0302.github.io/post/magazine.html</link><description>https://github.com/Monkfishare/Calibre (online ecom)
+https://github.com/hehonghui/awesome-english-ebooks。</description><guid isPermaLink="true">https://getcode0302.github.io/post/magazine.html</guid><pubDate>Fri, 14 Mar 2025 03:01:13 +0000</pubDate></item><item><title>build-your-own-x()</title><link>https://getcode0302.github.io/post/build-your-own-x%28%29.html</link><description>https://github.com/codecrafters-io/build-your-own-x 
+。</description><guid isPermaLink="true">https://getcode0302.github.io/post/build-your-own-x%28%29.html</guid><pubDate>Fri, 14 Mar 2025 02:58:51 +0000</pubDate></item><item><title>Blog-Reading</title><link>https://getcode0302.github.io/post/Blog-Reading.html</link><description>chuquan.me
+https://dev-life.online/ 程序员自洽
+https://github.com/zhangchenchen/self-consistent-coder
+
+### 撰写文档
+https://stevelosh.com/blog/2013/09/teach-dont-tell/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Blog-Reading.html</guid><pubDate>Tue, 11 Mar 2025 01:56:43 +0000</pubDate></item><item><title>前端调试工具</title><link>https://getcode0302.github.io/post/qian-duan-diao-shi-gong-ju.html</link><description>https://github.com/HuolalaTech/page-spy-web/blob/main/README_ZH.md
+https://github.com/Tencent/vConsole。</description><guid isPermaLink="true">https://getcode0302.github.io/post/qian-duan-diao-shi-gong-ju.html</guid><pubDate>Tue, 11 Mar 2025 01:54:58 +0000</pubDate></item><item><title>翻译服务器</title><link>https://getcode0302.github.io/post/fan-yi-fu-wu-qi.html</link><description>https://github.com/xxnuo/MTranServer
+
+翻译平台
+https://github.com/HeroIsUseless/bondma/blob/main/doc/readme/zh.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/fan-yi-fu-wu-qi.html</guid><pubDate>Tue, 11 Mar 2025 01:53:51 +0000</pubDate></item><item><title>屏幕共享工具</title><link>https://getcode0302.github.io/post/ping-mu-gong-xiang-gong-ju.html</link><description>https://github.com/tonghohin/screen-sharing
+
+https://github.com/echoshare/echoshare
+
+
+https://github.com/kunkundi/crossdesk
+
+androind
+https://github.com/modstart-lib/linkandroid/blob/main/README-CN.md。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ping-mu-gong-xiang-gong-ju.html</guid><pubDate>Tue, 11 Mar 2025 01:53:09 +0000</pubDate></item><item><title>定时任务管理平台</title><link>https://getcode0302.github.io/post/ding-shi-ren-wu-guan-li-ping-tai.html</link><description>https://github.com/whyour/qinglong?tab=readme-ov-file。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ding-shi-ren-wu-guan-li-ping-tai.html</guid><pubDate>Tue, 11 Mar 2025 01:42:26 +0000</pubDate></item><item><title>大学记事</title><link>https://getcode0302.github.io/post/da-xue-ji-shi.html</link><description>## 浙江大学
+www.ncku1897.top
+## 大学收录
+https://laosheng.top/fuwu/yuanxiao。</description><guid isPermaLink="true">https://getcode0302.github.io/post/da-xue-ji-shi.html</guid><pubDate>Thu, 06 Mar 2025 12:05:39 +0000</pubDate></item><item><title>Quantitative Trading Tools</title><link>https://getcode0302.github.io/post/Quantitative%20Trading%20Tools.html</link><description>### tools
+https://github.com/akfamily/akshare。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Quantitative%20Trading%20Tools.html</guid><pubDate>Thu, 06 Mar 2025 02:49:46 +0000</pubDate></item><item><title>服务自托管</title><link>https://getcode0302.github.io/post/fu-wu-zi-tuo-guan.html</link><description>###
+* https://github.com/louislam/uptime-kuma
+* https://kener.ing/docs/home。</description><guid isPermaLink="true">https://getcode0302.github.io/post/fu-wu-zi-tuo-guan.html</guid><pubDate>Tue, 25 Feb 2025 02:35:33 +0000</pubDate></item><item><title>Perfermance&amp;&amp;Diagnose</title><link>https://getcode0302.github.io/post/Perfermance%26%26Diagnose.html</link><description>
+Linux 工具
+
+### 进程分析
+https://github.com/brendangregg/perf-tools/blob/master/execsnoop
+bcc 工具集合：https://github.com/iovisor/bcc
+
+### 网络分析
+https://github.com/iovisor/ubpf
+
+https://github.com/hengyoush/kyanos （慢请求抓包 http redis kafka）
+。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Perfermance%26%26Diagnose.html</guid><pubDate>Thu, 06 Feb 2025 09:15:53 +0000</pubDate></item><item><title>资讯集散地</title><link>https://getcode0302.github.io/post/zi-xun-ji-san-di.html</link><description>https://www.bestblogs.dev/feeds?featured=y。</description><guid isPermaLink="true">https://getcode0302.github.io/post/zi-xun-ji-san-di.html</guid><pubDate>Fri, 17 Jan 2025 09:19:09 +0000</pubDate></item><item><title>Tools</title><link>https://getcode0302.github.io/post/Tools.html</link><description>## 二级域名证书查询
+https://crt.sh/
+
+## 微信文章导出
+https://github.com/jooooock/wechat-article-exporter
+
+## sql 方式查询云服务状态
+https://steampipe.io/
+
+## 文件分享工具
+https://pairdrop.net/
+
+## 自托管笔记工具
+https://docs.karakeep.app/
+
+
+## 网页内容抓取
+https://github.com/jaypyles/Scraperr。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Tools.html</guid><pubDate>Mon, 28 Oct 2024 12:27:42 +0000</pubDate></item><item><title>Hijack工具</title><link>https://getcode0302.github.io/post/Hijack-gong-ju.html</link><description>android 应用通杀&#13;
+https://github.com/r0ysue/r0capture。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Hijack-gong-ju.html</guid><pubDate>Tue, 22 Oct 2024 12:54:43 +0000</pubDate></item><item><title>SaaS部署平台</title><link>https://getcode0302.github.io/post/SaaS-bu-shu-ping-tai.html</link><description>### web &#13;
+vecerl&#13;
+cloudflare pages&amp;worker&#13;
+### docker&#13;
+railway&#13;
+Fly.io。</description><guid isPermaLink="true">https://getcode0302.github.io/post/SaaS-bu-shu-ping-tai.html</guid><pubDate>Tue, 22 Oct 2024 12:32:27 +0000</pubDate></item><item><title>好的文章</title><link>https://getcode0302.github.io/post/hao-de-wen-zhang.html</link><description>[浅谈人工智能](http://www.stat.ucla.edu/~sczhu/Blog_articles/%E6%B5%85%E8%B0%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.pdf) 。</description><guid isPermaLink="true">https://getcode0302.github.io/post/hao-de-wen-zhang.html</guid><pubDate>Wed, 28 Aug 2024 02:34:50 +0000</pubDate></item><item><title>算法整理</title><link>https://getcode0302.github.io/post/suan-fa-zheng-li.html</link><description>图形化算法：https://gallery.selfboot.cn/zh/algorithms。</description><guid isPermaLink="true">https://getcode0302.github.io/post/suan-fa-zheng-li.html</guid><pubDate>Tue, 30 Jul 2024 15:25:06 +0000</pubDate></item><item><title>中间件手册</title><link>https://getcode0302.github.io/post/zhong-jian-jian-shou-ce.html</link><description>redis:https://www.redis.net.cn/order/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/zhong-jian-jian-shou-ce.html</guid><pubDate>Mon, 22 Jul 2024 02:11:42 +0000</pubDate></item><item><title>openwrt</title><link>https://getcode0302.github.io/post/openwrt.html</link><description>rclone:https://openwrt.org/packages/pkgdata/rclone。</description><guid isPermaLink="true">https://getcode0302.github.io/post/openwrt.html</guid><pubDate>Fri, 19 Jul 2024 07:07:28 +0000</pubDate></item><item><title>Linux运维</title><link>https://getcode0302.github.io/post/Linux-yun-wei.html</link><description>### 云盘挂载
+rclone:https://rclone.org/
+
+### 安全加固
+https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+
+### ssh web
+https://github.com/LukeGus/Termix.git。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Linux-yun-wei.html</guid><pubDate>Fri, 19 Jul 2024 03:42:42 +0000</pubDate></item><item><title>Java资源整理</title><link>https://getcode0302.github.io/post/Java-zi-yuan-zheng-li.html</link><description>Java全栈知识：https://pdai.tech/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/Java-zi-yuan-zheng-li.html</guid><pubDate>Thu, 13 Jun 2024 02:16:53 +0000</pubDate></item><item><title>cloudflare-worker</title><link>https://getcode0302.github.io/post/cloudflare-worker.html</link><description>## awesome
+https://github.com/zhuima/awesome-cloudflare
+## 推送事件
+https://github.com/byodian/notifier/blob/main/README-zh.md
+
+## 邮箱服务
+https://github.com/beilunyang/moemail
+https://github.com/bestruirui/Alle/blob/main/docs/deploy.md
+
+### xget 加速
+https://github.com/xixu-me/xget/blob/main/README.zh-Hans.md
+
+### 评论系统
+https://github.com/anghunk/cwd
+
+
+### tunnel tools
+https://github.com/tianrking/Re_edgetunnel?tab=readme-ov-file
+。</description><guid isPermaLink="true">https://getcode0302.github.io/post/cloudflare-worker.html</guid><pubDate>Mon, 15 Apr 2024 06:28:38 +0000</pubDate></item><item><title>故障定位收录</title><link>https://getcode0302.github.io/post/gu-zhang-ding-wei-shou-lu.html</link><description>[Linux系统中负载较高问题排查思路与解决方法](https://www.cnblogs.com/liuyupen/p/13905967.html)](https://www.cnblogs.com/liuyupen/p/13905967.html)&#13;
+&#13;
+[chrome 崩溃分析](https://blog.5udou.cn/blog/detail/1711630845567)。</description><guid isPermaLink="true">https://getcode0302.github.io/post/gu-zhang-ding-wei-shou-lu.html</guid><pubDate>Thu, 11 Apr 2024 07:55:49 +0000</pubDate></item><item><title>security blog</title><link>https://getcode0302.github.io/post/security%20blog.html</link><description>https://www.ctfiot.com/blog。</description><guid isPermaLink="true">https://getcode0302.github.io/post/security%20blog.html</guid><pubDate>Sun, 07 Apr 2024 07:00:14 +0000</pubDate></item><item><title>IDE记录</title><link>https://getcode0302.github.io/post/IDE-ji-lu.html</link><description>jet(热心大佬)：https://3.jetbra.in/&#13;
+zhile:https://zhile.io/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/IDE-ji-lu.html</guid><pubDate>Tue, 26 Mar 2024 03:37:38 +0000</pubDate></item><item><title>名人演进记录</title><link>https://getcode0302.github.io/post/ming-ren-yan-jin-ji-lu.html</link><description>**2024**&#13;
+[黄仁勋2024斯坦福](https://finance.sina.cn/chanjing/gsxw/2024-03-11/detail-inamxtkr1619017.d.html)。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ming-ren-yan-jin-ji-lu.html</guid><pubDate>Fri, 15 Mar 2024 09:34:36 +0000</pubDate></item><item><title>golang</title><link>https://getcode0302.github.io/post/golang.html</link><description>### 资料大全&#13;
+&#13;
+https://github.com/0voice/Introduction-to-Golang/tree/main。</description><guid isPermaLink="true">https://getcode0302.github.io/post/golang.html</guid><pubDate>Wed, 13 Mar 2024 07:28:51 +0000</pubDate></item><item><title>平台开发</title><link>https://getcode0302.github.io/post/ping-tai-kai-fa.html</link><description>### 消息推送平台
+https://github.com/engigu/Message-Push-Nest
+https://github.com/beilunyang/moepush
+### api 大全
+https://github.com/public-apis/public-apis?tab=readme-ov-file#index
+
+### 微信自助SDK
+https://github.com/wechaty/wechaty
+
+### telgram机器人
+hono: https://github.com/ryanccn/worker-template
+参考： https://moe.best/tutorial/cfworker-telegraf-tgbot.html
+telgram bot api: https://github.com/telegraf
+telgram bot api:https://grammy.dev/zh/
+
+### finance api 
+https://github.com/ranaroussi/yfinance
+
+### open auth
+https://github.com/openauthjs/openauth
+
+。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ping-tai-kai-fa.html</guid><pubDate>Mon, 11 Mar 2024 03:33:47 +0000</pubDate></item><item><title>asm-x86&amp;arm</title><link>https://getcode0302.github.io/post/asm-x86%26arm.html</link><description>x86:http://www.egr.unlv.edu/~ed/assembly64.pdf。</description><guid isPermaLink="true">https://getcode0302.github.io/post/asm-x86%26arm.html</guid><pubDate>Mon, 11 Mar 2024 03:04:13 +0000</pubDate></item><item><title>docker note</title><link>https://getcode0302.github.io/post/docker%20note.html</link><description>### compose examples
+https://github.com/Haxxnet/Compose-Examples
+
+### monitor images update container
+https://containrrr.dev/watchtower/usage-overview/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/docker%20note.html</guid><pubDate>Mon, 11 Mar 2024 03:02:27 +0000</pubDate></item><item><title>ai everything record</title><link>https://getcode0302.github.io/post/ai%20everything%20record.html</link><description>### 知识
+深度学习书籍：https://udlbook.github.io/udlbook/
+### news
+https://yunyinghui.feishu.cn/wiki/BaCEwe3AliqYERkc9dVcfW0BnXg?spm=ata.21736010.0.0.d8f04b25bcXa3t
+
+### agent
+dify 自动化平台
+https://docs.dify.ai/zh-hans
+
+### tools
+pdf 文件阅读
+https://github.com/ai-hermes/doc-solver
+小爱音箱
+https://github.com/idootop/mi-gpt
+微信gpt
+https://github.com/kx-Huang/ChatGPT-on-WeChat/blob/master/README.md
+
+命令控制收集agent
+https://github.com/droidrun/droidrun
+
+
+### openai
+https://gpt4o.so/zh-CN
+
+。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ai%20everything%20record.html</guid><pubDate>Mon, 11 Mar 2024 02:51:17 +0000</pubDate></item><item><title>saas工具自建</title><link>https://getcode0302.github.io/post/saas-gong-ju-zi-jian.html</link><description>### 相册服务
+https://github.com/ente-io/ente/tree/main
+
+### 自建wiki
+https://pandawiki.docs.baizhi.cloud/node/01986040-602c-736c-b99f-0b3cb9bb89e5。</description><guid isPermaLink="true">https://getcode0302.github.io/post/saas-gong-ju-zi-jian.html</guid><pubDate>Mon, 11 Mar 2024 02:38:12 +0000</pubDate></item><item><title>诗词资源</title><link>https://getcode0302.github.io/post/shi-ci-zi-yuan.html</link><description>http://www.tanglib.com/。</description><guid isPermaLink="true">https://getcode0302.github.io/post/shi-ci-zi-yuan.html</guid><pubDate>Fri, 23 Feb 2024 09:58:26 +0000</pubDate></item><item><title>英语学习资源整理</title><link>https://getcode0302.github.io/post/ying-yu-xue-xi-zi-yuan-zheng-li.html</link><description>发音纠正：https://fayin.love/
+英汉文章阅读：http://www.tanglib.com/
+连接词：https://earthworm.cuixueshe.com/
+英语语法：https://oldwestenglish.github.io/grammar/#/
+英语单词学习：https://prowords.zeabur.app/ （https://github.com/winterfx/prowords）
+儿童英语：https://github.com/xckevin/magic-english-buddy。</description><guid isPermaLink="true">https://getcode0302.github.io/post/ying-yu-xue-xi-zi-yuan-zheng-li.html</guid><pubDate>Fri, 23 Feb 2024 08:53:59 +0000</pubDate></item><item><title>record some things</title><link>https://getcode0302.github.io/post/record%20some%20things.html</link><description>record some things&#13;
+参考：https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html。</description><guid isPermaLink="true">https://getcode0302.github.io/post/record%20some%20things.html</guid><pubDate>Fri, 23 Feb 2024 03:19:47 +0000</pubDate></item></channel></rss>

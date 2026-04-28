@@ -1,0 +1,1 @@
+x86:http://www.egr.unlv.edu/~ed/assembly64.pdf
